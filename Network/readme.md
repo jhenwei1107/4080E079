@@ -137,7 +137,7 @@ ICMP 封包格式，其各欄位功能如下：
 ```
 ### ICMP 封裝
 
-![ICMP 封裝](icmp_encap.gif)
+![ICMP 封裝](icmp封裝.png)
 
 ### ICMP 常用指令
 ```
@@ -146,7 +146,7 @@ tracert| Traceroute
 如何使用 TRACERT 疑難排解 Windows 中的 TCP/IP 問題
 https://support.microsoft.com/zh-tw/help/314868/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows
 ```
-![tracert](tracert.gif)
+![tracert](tracert.png)
 ### TCP vs UDP 
 ```
 TCP vs UDP Comparison
