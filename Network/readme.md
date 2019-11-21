@@ -144,7 +144,7 @@ ARP -a [inet_addr] [-N if_addr] [-v]
   > arp -a                                    .... 顯示 ARP 表格。
 ```
 
-![arp -a](arp -a.png)
+![arp -a](arp-a.png)
 
 ### IP
 ```
