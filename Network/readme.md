@@ -202,7 +202,7 @@ https://support.microsoft.com/zh-tw/help/314868/how-to-use-tracert-to-troublesho
 ## tracert www.google.com
 ![tracert www.google.com](tracert1.png)
 ## tracert www.ksu.edu.tw
-![tracert www.ksu.edu.tw](tracert2.png)
+![tracert www.ksu.edu.tw](tracert0.png)
 
 ### TCP vs UDP 
 ```
