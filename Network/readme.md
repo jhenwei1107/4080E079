@@ -137,7 +137,7 @@ ICMP 封包格式，其各欄位功能如下：
 ```
 ### ICMP 封裝
 
-![ICMP封裝](icmp_encapsulation.png)
+![ICMP 封裝](icmp_encapsulation1.png)
 
 ### ICMP 常用指令
 ```
