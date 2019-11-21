@@ -110,8 +110,9 @@ MAC Address
 反向位址解析協定（Reverse Address Resolution Protocol, RARP）。由已知的網路實體位址查詢其相對應的 IP 位址
 ```
 
+## arp /?
+
 ```
-arp /?
 
 顯示和修改位址解析通訊協定 (ARP) 使用的 IP 對實際位址{MAC address}轉譯表格。
 
