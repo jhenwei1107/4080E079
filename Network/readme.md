@@ -105,11 +105,6 @@ Address Resolution Protocol (ARP) - Explained with example | Computer network | 
 https://www.youtube.com/watch?v=EC1slXCT3bg
 
 MAC Address
-```
-Address Resolution Protocol (ARP) - Explained with example | Computer network | TechTerms
-https://www.youtube.com/watch?v=EC1slXCT3bg
-
-MAC Address
 
 位址解析協定（Address Resolution Protocol, ARP）來查問欲傳送之目的主機的MAC位址==已知的 IP 位址查問其相對應的網路實體位
 反向位址解析協定（Reverse Address Resolution Protocol, RARP）。由已知的網路實體位址查詢其相對應的 IP 位址
@@ -207,6 +202,9 @@ arp -a
   224.0.0.252           01-00-5e-00-00-fc     靜態
   239.255.255.250       01-00-5e-7f-ff-fa     靜態
 ```
+### IP
+```
+
 ```
 ### ICMP
 ```
